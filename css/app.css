@@ -197,3 +197,11 @@ th, td {
 th {
     background-color: #f2f2f2;
 }
+
+.writer {
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
