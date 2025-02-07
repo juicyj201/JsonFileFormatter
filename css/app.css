@@ -147,6 +147,13 @@ h1:focus {
     color: white;
 }
 
+.file-item.selectederrors {
+    background-color:white;
+    border-color:#b32121;
+    border-spacing: 10px;
+    color:#b32121;
+}
+
 .file-item:hover {
     background-color: #f8f9fa;
 }
